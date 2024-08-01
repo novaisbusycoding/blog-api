@@ -3,11 +3,18 @@
 
 <small>* Powered by `django-ninja` REST framework.</small>
 
-![](docs/hero.png)
+---
+
+
+ - [Awesome Features](#features)
+ - Why High Performant APIs over DRF* (building)
+ - [Screenshots](#screenshots)
+ - [LICENSE](#license)
+
 
 ---
 
-### 📙 Awesome Features:
+### 📙 <span id="features">Awesome Features<span>:
 
 
 - [x]  **Management Panel** for _easiest control of blog features_ (posts, tags and more.);
@@ -16,3 +23,12 @@
 - [x] **Database optimized for performance**(including _query optimizations, pagination and cache_)
 - [x]  **Rich Text Editor** (**CKEditor**) content manager, _for creating any kinds of blog posts_.
 - [x] **High Performant API** using _**ASGI** for better handling for async requests_.
+
+## <span id="screenshots">Screenshots<span> 
+
+![](docs/hero.png)
+
+---
+## <span id="license">LICENSE<span> 
+
+This project is licensed under the terms of the [MIT license](LICENSE).
