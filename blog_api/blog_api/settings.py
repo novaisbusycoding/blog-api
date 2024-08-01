@@ -32,7 +32,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
-    # My own 
+    # My own
     'post',
     # Third party
     'ninja',
