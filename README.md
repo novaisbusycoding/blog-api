@@ -3,6 +3,8 @@
 
 <small>* Powered by `django-ninja` REST framework.</small>
 
+![](docs/hero.png)
+
 ---
 
 ### 📙 Awesome Features:
