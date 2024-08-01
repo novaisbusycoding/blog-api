@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     # My own 
     'post',
     # Third party
+    'ninja',
     'ckeditor',
     'ckeditor_uploader',
     # Django debug toolbar
@@ -150,7 +151,6 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Django debug toolbar
 INTERNAL_IPS = [
-    # ...
-    "127.0.0.1",
-    # ...
+    '0.0.0.0',
+    '127.0.0.1',
 ]
